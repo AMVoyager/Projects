@@ -1,15 +1,17 @@
 # Timer.java
 
 ## Overview
-`Timer.java` is a Java class that provides a simple and reliable way to manage time intervals and perform actions at specific points in time. It's designed to be used in various applications where timing and scheduling tasks are essential.
+`Timer.java` is a versatile Java class that provides a user-friendly graphical interface for managing time intervals and executing actions at specific points in time. The class includes a `JFrame` with a start/stop button, three text fields for configuring timing parameters, and a sound notification that plays in a new window upon timer completion.
+
+# Dependencies
+- This file uses Java's built-in GUI libraries and requires no external dependencies.
 
 ## Features
-- Easily create and manage timers.
 - Schedule actions to run at specific times.
 - Pause, resume, and cancel timers.
 - Accurate time tracking with minimal resource consumption.
 
-## Usage
+## Code
 ```java
 import java.awt.Color;
 import java.awt.Dimension;
