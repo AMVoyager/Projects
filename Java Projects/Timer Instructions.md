@@ -313,3 +313,7 @@ class BackgroundPanel extends JPanel {
 		}
 	}
 }
+```
+
+## Resource Files
+- This repository consists of a folder which contains images that need to be downloaded and change the path in the code.
